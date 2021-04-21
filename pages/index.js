@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          -= Welcome comrade for you pleasure to <a href="https://brukke.com">Brukke</a> =-
+          -= Welcome comrade ! it's Working! =-
         </h1>
 
         <p className={styles.description}>
